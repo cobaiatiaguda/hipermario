@@ -5,3 +5,6 @@ Detalhes
 
 O objetivo é trazer o jogo mario bros de volta á vida
 é completamente feito em blender e python
+Depêndẽncias:
+
+Blender 2.79b (apenas para aceder ao código-fonte)
