@@ -8,3 +8,5 @@ O objetivo é trazer o jogo mario bros de volta á vida
 Depêndẽncias:
 
 Blender 2.79b (apenas para aceder ao código-fonte)
+Python 3.6
+Pycharm (Futuramente  quando houver scripts python)
