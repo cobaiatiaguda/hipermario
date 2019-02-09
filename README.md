@@ -5,7 +5,7 @@ Para aceder ao codigo onte abra o arquivo "mario-opensource.blend" no blender 2.
 
 Detalhes
 
-O objetivo é trazer o jogo mario bros de volta á vida
+O fim do projeto é trazer o jogo mario bros de volta á vida
 
 é completamente feito em blender e python
 
