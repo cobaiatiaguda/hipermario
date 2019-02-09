@@ -16,3 +16,11 @@ Blender 2.79b (apenas para aceder ao código-fonte)
 Python 3.6
 
 Pycharm (Futuramente  quando houver scripts python)
+
+Notas da atualização 1.1
+
+- Mais Efeitos Sonoros!
+
+- Alteração das musicas dos menus
+
+- Caixas misteriosas adicionadas
